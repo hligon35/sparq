@@ -1011,6 +1011,10 @@ body {
     margin: 0;
 }
 
+.social-connect {
+    text-align: center;
+}
+
 .social-connect h4 {
     font-size: 1.1rem;
     font-weight: 600;
@@ -1021,7 +1025,8 @@ body {
 .social-links-large {
     display: flex;
     gap: 1rem;
-    flex-wrap: wrap;
+    justify-content: center;
+    flex-wrap: nowrap;
 }
 
 .social-link {
