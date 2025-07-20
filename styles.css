@@ -1264,17 +1264,11 @@ body {
     margin-bottom: 2rem;
 }
 
-.footer-brand h3 {
-    font-size: 1.8rem;
-    font-weight: 700;
+.footer-brand .footer-logo {
+    height: 100px;
+    width: auto;
     margin-bottom: 1rem;
-}
-
-.footer-brand .highlight {
-    background: var(--gradient-primary);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
+    filter: brightness(1.1);
 }
 
 .footer-brand p {
