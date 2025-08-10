@@ -1,0 +1,12 @@
+nohup: ignoring input
+
+> email-admin-dashboard@1.0.0 start
+> node server.js
+
+[INFO] Email Admin Dashboard starting up
+[INFO] Loaded 0 domains and 0 email accounts
+[INFO] Email Admin Dashboard running on port 3003
+
+🎉 Email Admin Dashboard is ready!
+📧 Access at: http://localhost:3003
+🌐 Or: http://undefined:3003
